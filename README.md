@@ -565,4 +565,17 @@ All videos (official channel): https://www.youtube.com/@amenazzy
 - [La Menore](https://www.youtube.com/watch?v=1XubHs8ZWR8)
 - [Rochy RD, Treintisiete, Vuelty - Dindon](https://www.youtube.com/watch?v=kjglbI9Il9E)
 
-Total videos listed: 414
+## Jezzy El Chef
+All videos (official channel): https://www.youtube.com/@jezzyelchef
+
+- [Jezzy - PRESO A 30 (Video Oficial)](https://www.youtube.com/watch?v=Shnd823Y6V8)
+- [Jezzy - Ubicacion y Foto (Video Oficial)](https://www.youtube.com/watch?v=4TB7yuM51lY)
+- [El Alfa x Luar La L x Jezzy - SOY UN BAD BOY (Video Oficial)](https://www.youtube.com/embed/LAva0eoPUFA)
+- [La Mujer Que Me Pario (Video Oficial)](https://www.youtube.com/watch?v=mPp3GJPTDVw)
+- [Jezzy ft. NTG - El Kick](https://www.youtube.com/watch?v=FIJUakocNXM)
+- [La Gureta ft. Jezzy El Chef - Es Una Guerra (Video Oficial)](https://www.youtube.com/watch?v=iJF8sSPHEVA)
+- [EN UNA CAJA - Jezzy El Chef, Braulio Fogon, La Boo (Video Oficial)](https://www.youtube.com/watch?v=4gIHuO9GX0g)
+- [Jezzy - Piloto (Video Oficial)](https://www.youtube.com/watch?v=F1ACct7xdJI)
+- [Jezzy - Encondio (Video Oficial)](https://www.youtube.com/watch?v=bvhDM6qvKyE)
+
+Total videos listed: 423

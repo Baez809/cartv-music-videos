@@ -2347,5 +2347,36 @@
         "id": "bvhDM6qvKyE"
       }
     ]
+  },
+  {
+    "artist": "Sin Nombre",
+    "channel": "https://www.youtube.com/@SinNombreRD",
+    "videos": [
+      {
+        "title": "CAMBIO E LUCE (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=9sGf1l14Y6Q",
+        "id": "9sGf1l14Y6Q"
+      },
+      {
+        "title": "NTG X SIN NOMBRE - Mejor (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=rGfXFOVdzIg",
+        "id": "rGfXFOVdzIg"
+      },
+      {
+        "title": "Quevedo & Sin Nombre - 14 Febreros",
+        "url": "https://www.youtube.com/embed/hN32_WMKSso",
+        "id": "hN32_WMKSso"
+      },
+      {
+        "title": "Sin Nombre x Damn Goldo - NADA PERSONAL COMPANERO",
+        "url": "https://www.youtube.com/watch?v=LzhuKOI3Ams",
+        "id": "LzhuKOI3Ams"
+      },
+      {
+        "title": "Sin Nombre x Eklectico - Sin GATEATUMADRE (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=BOSHJNb9V1Y",
+        "id": "BOSHJNb9V1Y"
+      }
+    ]
   }
 ]

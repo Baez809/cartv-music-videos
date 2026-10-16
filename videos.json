@@ -1,0 +1,731 @@
+[
+  {
+    "artist": "NTG",
+    "channel": "https://www.youtube.com/@NTGBX",
+    "videos": [
+      {
+        "title": "FANTASIA (Official Video)",
+        "url": "https://www.youtube.com/watch?v=eiJEshbvDaM",
+        "id": "eiJEshbvDaM"
+      },
+      {
+        "title": "SOLTERA (Official Video)",
+        "url": "https://www.youtube.com/watch?v=ct038gPRjEk",
+        "id": "ct038gPRjEk"
+      },
+      {
+        "title": "NTG x Amenazzy - DIABLA (Video Official)",
+        "url": "https://www.youtube.com/watch?v=cwV4kbJHnKQ",
+        "id": "cwV4kbJHnKQ"
+      },
+      {
+        "title": "Maria Freestyle (Official Video)",
+        "url": "https://www.youtube.com/watch?v=2qkr58DDrns",
+        "id": "2qkr58DDrns"
+      },
+      {
+        "title": "24 (Official Video)",
+        "url": "https://www.youtube.com/watch?v=yFeeEZlSvHk",
+        "id": "yFeeEZlSvHk"
+      },
+      {
+        "title": "Ante (Official Video)",
+        "url": "https://www.youtube.com/watch?v=4lI-nJqrvsI",
+        "id": "4lI-nJqrvsI"
+      },
+      {
+        "title": "NTG X TREINTISIETE - COLALE (Official Video)",
+        "url": "https://www.youtube.com/watch?v=pCUCtdV75Zk",
+        "id": "pCUCtdV75Zk"
+      },
+      {
+        "title": "NTG X SB4L - IN MY BAG pt2 (Official Video)",
+        "url": "https://www.youtube.com/watch?v=6BwEr1yvX7s",
+        "id": "6BwEr1yvX7s"
+      },
+      {
+        "title": "NTG & Loe Shimmy - SHORTY PAIN (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=c_kyYByH3q8",
+        "id": "c_kyYByH3q8"
+      },
+      {
+        "title": "DLO x NTG & Don Q - Show Me Luv (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=wP9VtoiCDKM",
+        "id": "wP9VtoiCDKM"
+      },
+      {
+        "title": "OMY DE ORO x NTG - LA VIDA ES UNA (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=Kp0YRYQeRN4",
+        "id": "Kp0YRYQeRN4"
+      },
+      {
+        "title": "SUANO (REMIX) - Drew x Amenazzy x NTG",
+        "url": "https://www.youtube.com/watch?v=Y3v-6V9UlFE",
+        "id": "Y3v-6V9UlFE"
+      },
+      {
+        "title": "Austin San, NTG - Tu Talento (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=BPmmiWXFlj4",
+        "id": "BPmmiWXFlj4"
+      }
+    ]
+  },
+  {
+    "artist": "Dalvin La Melodia",
+    "channel": "https://www.youtube.com/@DalvinLaMelodiaOfficial",
+    "videos": [
+      {
+        "title": "Mi Reina (Official Video)",
+        "url": "https://www.youtube.com/watch?v=dlM8hxCvOTc",
+        "id": "dlM8hxCvOTc"
+      },
+      {
+        "title": "Amnesia (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=GdaK8B9_bvE",
+        "id": "GdaK8B9_bvE"
+      },
+      {
+        "title": "El Chaval De La Bachata, Dalvin La Melodia - Antes y Despues (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=1ejl3mnmXQQ",
+        "id": "1ejl3mnmXQQ"
+      }
+    ]
+  },
+  {
+    "artist": "El Chaval de la Bachata",
+    "channel": "https://www.youtube.com/@ElChavaldelaBachata",
+    "videos": [
+      {
+        "title": "Dile A El (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=bk96_vIrNXE",
+        "id": "bk96_vIrNXE"
+      },
+      {
+        "title": "Donde estan esos amigos",
+        "url": "https://www.youtube.com/watch?v=GqdpOy8OxQw",
+        "id": "GqdpOy8OxQw"
+      },
+      {
+        "title": "Hablame De Ti (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=TzYD6S4LwDg",
+        "id": "TzYD6S4LwDg"
+      },
+      {
+        "title": "Te Puedes Quedar (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=k4UMOZ_Ec28",
+        "id": "k4UMOZ_Ec28"
+      },
+      {
+        "title": "Ft. Luis Miguel Del Amargue - Mujer Sin Alma (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=MA0Y3yFvRq0",
+        "id": "MA0Y3yFvRq0"
+      },
+      {
+        "title": "Se Te Hizo Tarde (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=1Tg_xhYHqpQ",
+        "id": "1Tg_xhYHqpQ"
+      },
+      {
+        "title": "El Chaval, Dalvin La Melodia - Antes y Despues (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=1ejl3mnmXQQ",
+        "id": "1ejl3mnmXQQ"
+      },
+      {
+        "title": "El Chaval x Wilson Max - Enfermera (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=x30P2b39Hk4",
+        "id": "x30P2b39Hk4"
+      },
+      {
+        "title": "La Plata (Video oficial)",
+        "url": "https://www.youtube.com/watch?v=sHk3rGKU5Cg",
+        "id": "sHk3rGKU5Cg"
+      }
+    ]
+  },
+  {
+    "artist": "Zacarias Ferreira",
+    "channel": "https://www.youtube.com/@ZacariasFerreiraOficial",
+    "videos": [
+      {
+        "title": "La Asesina (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=MB23TtaeiQY",
+        "id": "MB23TtaeiQY"
+      },
+      {
+        "title": "Amiga Veneno (Video oficial)",
+        "url": "https://www.youtube.com/watch?v=xBU-VsNnIEQ",
+        "id": "xBU-VsNnIEQ"
+      },
+      {
+        "title": "Los Recuerdos (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=6mUyImETA4U",
+        "id": "6mUyImETA4U"
+      },
+      {
+        "title": "Si Pudiera (video oficial)",
+        "url": "https://www.youtube.com/watch?v=eW_o3TKPeQM",
+        "id": "eW_o3TKPeQM"
+      },
+      {
+        "title": "Manana En Tu Olvido (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=f_90fzWmT-Q",
+        "id": "f_90fzWmT-Q"
+      },
+      {
+        "title": "El Intruso (Video Oficial)",
+        "url": "https://www.youtube.com/embed/Y2KVvROYQrc",
+        "id": "Y2KVvROYQrc"
+      },
+      {
+        "title": "Ya No Te Buscare (Video Oficial)",
+        "url": "https://www.youtube.com/embed/D3qMNNgvsII",
+        "id": "D3qMNNgvsII"
+      },
+      {
+        "title": "Pero No Puedo (Video Oficial)",
+        "url": "https://www.youtube.com/embed/HmdRi3Lj6Ms",
+        "id": "HmdRi3Lj6Ms"
+      },
+      {
+        "title": "Romeo Santos, Zacarias Ferreira - Me Quedo (Official Video)",
+        "url": "https://www.youtube.com/embed/oLBTkf7jm0Q",
+        "id": "oLBTkf7jm0Q"
+      }
+    ]
+  },
+  {
+    "artist": "Bulin 47",
+    "channel": "https://www.youtube.com/@bulin47music",
+    "videos": [
+      {
+        "title": "Que No Se Le Pare (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=LZKYsCiQ8ng",
+        "id": "LZKYsCiQ8ng"
+      },
+      {
+        "title": "Me La Sube (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=-f7FuDCqjC4",
+        "id": "-f7FuDCqjC4"
+      },
+      {
+        "title": "Bulin 47 X Kevin Wai - Dame Hombro (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=VUIgT-E4IS0",
+        "id": "VUIgT-E4IS0"
+      },
+      {
+        "title": "Morbo (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=aMLK8A6B1_8",
+        "id": "aMLK8A6B1_8"
+      },
+      {
+        "title": "Bulin 47 X Ceky Viciny - Ta Talde Pah (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=evv-XMU2Scs",
+        "id": "evv-XMU2Scs"
+      },
+      {
+        "title": "Toy Al 100 (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=cPTMBSRtFag",
+        "id": "cPTMBSRtFag"
+      },
+      {
+        "title": "Lo Que Te Killa (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=BFu2TfXjih0",
+        "id": "BFu2TfXjih0"
+      },
+      {
+        "title": "Bulin 47 X Arcangel - Lo Que Te Killa REMIX (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=2YKWAg2fO8Y",
+        "id": "2YKWAg2fO8Y"
+      },
+      {
+        "title": "Bulin 47 X Reissel - A Tu Mama No Le Gusta Este Menor (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=eeXaU1BAnaY",
+        "id": "eeXaU1BAnaY"
+      },
+      {
+        "title": "Bulin 47 x Jm Bless - La Nota (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=WLTtc9wgE1Q",
+        "id": "WLTtc9wgE1Q"
+      },
+      {
+        "title": "Bulin 47 X Lil Voz - Dejame Date (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=u9cubvtglYI",
+        "id": "u9cubvtglYI"
+      },
+      {
+        "title": "La Diligencia (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=cZfW9hTleuw",
+        "id": "cZfW9hTleuw"
+      },
+      {
+        "title": "Bulin 47 X Eussan Y El Lunatico - Los 15 Y Los 30 (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=53bGl9XJo6g",
+        "id": "53bGl9XJo6g"
+      },
+      {
+        "title": "Tu Ta Rapido (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=WeCLqB4ZP70",
+        "id": "WeCLqB4ZP70"
+      },
+      {
+        "title": "CALORAZO (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=kFZfx0_Xgxs",
+        "id": "kFZfx0_Xgxs"
+      },
+      {
+        "title": "Me Arregle (Video oficial)",
+        "url": "https://www.youtube.com/watch?v=2ddmmaKQKr8",
+        "id": "2ddmmaKQKr8"
+      },
+      {
+        "title": "Lo Cualto Tan Hecho (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=X3y8EcdGjmo",
+        "id": "X3y8EcdGjmo"
+      },
+      {
+        "title": "Siento los Poderes (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=yGv9gPAsqHA",
+        "id": "yGv9gPAsqHA"
+      },
+      {
+        "title": "Bulin 47 x El Tonto - Vete Lejos (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=fC7EqWxlALY",
+        "id": "fC7EqWxlALY"
+      },
+      {
+        "title": "Bulin 47 Ft. El Good - Prende Uno (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=McdFpPK2e9s",
+        "id": "McdFpPK2e9s"
+      },
+      {
+        "title": "PASTA (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=wte_9SGUz60",
+        "id": "wte_9SGUz60"
+      },
+      {
+        "title": "Tiki Tiki (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=4foi88JhqE0",
+        "id": "4foi88JhqE0"
+      },
+      {
+        "title": "Comando (Ute E' Duro) (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=MU_yIQ7zQyw",
+        "id": "MU_yIQ7zQyw"
+      },
+      {
+        "title": "7 Pollos (Siete Pollos)",
+        "url": "https://www.youtube.com/watch?v=Aglzey3SKiw",
+        "id": "Aglzey3SKiw"
+      },
+      {
+        "title": "Chimbala, Bulin 47 - Que No Va (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=jo68NE62VGk",
+        "id": "jo68NE62VGk"
+      },
+      {
+        "title": "El Super Nuevo Ft Bulin 47 - La Envidia (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=yAJO8t-b3qQ",
+        "id": "yAJO8t-b3qQ"
+      },
+      {
+        "title": "Bajo Mundo (Video Oficial)",
+        "url": "https://www.youtube.com/embed/ZTj5tz5A7E4",
+        "id": "ZTj5tz5A7E4"
+      },
+      {
+        "title": "Chimbala x Bulin 47 - EL JUIDERO (Video Oficial)",
+        "url": "https://www.youtube.com/embed/BLlKQN8Isc4",
+        "id": "BLlKQN8Isc4"
+      },
+      {
+        "title": "Rapidito (Video Oficial)",
+        "url": "https://www.youtube.com/embed/fos78EFs1mQ",
+        "id": "fos78EFs1mQ"
+      },
+      {
+        "title": "Bulin 47 X Quimico Ultra Mega - Otra Lagrima (Video Oficial)",
+        "url": "https://www.youtube.com/embed/-zQnK5Eet70",
+        "id": "-zQnK5Eet70"
+      }
+    ]
+  },
+  {
+    "artist": "Drake - Latest 3 Albums (Iceman / Maid of Honour / Habibti, 2026) + 2026 Singles",
+    "channel": "https://www.youtube.com/channel/UCByOQJjav0CUDwxCk-jVNRQ",
+    "videos": [
+      {
+        "title": "Dust - Iceman",
+        "url": "https://www.youtube.com/watch?v=9Qpe2qlERWY",
+        "id": "9Qpe2qlERWY"
+      },
+      {
+        "title": "Whisper My Name - Iceman",
+        "url": "https://www.youtube.com/watch?v=YhUqxWR4mnE",
+        "id": "YhUqxWR4mnE"
+      },
+      {
+        "title": "Janice STFU - Iceman / 2026 single",
+        "url": "https://www.youtube.com/watch?v=SD4yRDY9mek",
+        "id": "SD4yRDY9mek"
+      },
+      {
+        "title": "Ran to Atlanta (ft. Future, Molly Santana) - Iceman",
+        "url": "https://www.youtube.com/watch?v=ipOSrQNrp1U",
+        "id": "ipOSrQNrp1U"
+      },
+      {
+        "title": "Shabang - Iceman / 2026 single",
+        "url": "https://www.youtube.com/watch?v=XUkJ5m4WooQ",
+        "id": "XUkJ5m4WooQ"
+      },
+      {
+        "title": "Make Them Pay - Iceman",
+        "url": "https://www.youtube.com/watch?v=3-jY1JrtqeY",
+        "id": "3-jY1JrtqeY"
+      },
+      {
+        "title": "Burning Bridges - Iceman",
+        "url": "https://www.youtube.com/watch?v=bpD-JVy2zV4",
+        "id": "bpD-JVy2zV4"
+      },
+      {
+        "title": "National Treasures - Iceman",
+        "url": "https://www.youtube.com/watch?v=JffHTWti1es",
+        "id": "JffHTWti1es"
+      },
+      {
+        "title": "B's on the Table (ft. 21 Savage) - Iceman",
+        "url": "https://www.youtube.com/watch?v=Z8wKeg_nRVI",
+        "id": "Z8wKeg_nRVI"
+      },
+      {
+        "title": "What Did I Miss? - Iceman",
+        "url": "https://www.youtube.com/watch?v=weU76DGHKU0",
+        "id": "weU76DGHKU0"
+      },
+      {
+        "title": "Plot Twist - Iceman",
+        "url": "https://www.youtube.com/watch?v=QW29Ly55Kvs",
+        "id": "QW29Ly55Kvs"
+      },
+      {
+        "title": "2 Hard 4 the Radio - Iceman / 2026 single",
+        "url": "https://www.youtube.com/watch?v=ESRCdJHbvnU",
+        "id": "ESRCdJHbvnU"
+      },
+      {
+        "title": "Make Them Remember - Iceman",
+        "url": "https://www.youtube.com/watch?v=Nq5bP2RdZ6A",
+        "id": "Nq5bP2RdZ6A"
+      },
+      {
+        "title": "Little Birdie - Iceman",
+        "url": "https://www.youtube.com/watch?v=4mROydqA2zg",
+        "id": "4mROydqA2zg"
+      },
+      {
+        "title": "Don't Worry - Iceman",
+        "url": "https://www.youtube.com/watch?v=e3Td8oVfhjs",
+        "id": "e3Td8oVfhjs"
+      },
+      {
+        "title": "Make Them Know - Iceman",
+        "url": "https://www.youtube.com/watch?v=rThDEqJsRtk",
+        "id": "rThDEqJsRtk"
+      },
+      {
+        "title": "Hoe Phase - Maid of Honour",
+        "url": "https://www.youtube.com/watch?v=jFjhNey1uAU",
+        "id": "jFjhNey1uAU"
+      },
+      {
+        "title": "Road Trips - Maid of Honour",
+        "url": "https://www.youtube.com/watch?v=GR0m1bkz1Uo",
+        "id": "GR0m1bkz1Uo"
+      },
+      {
+        "title": "Outside Tweaking (ft. Stunna Sandy) - Maid of Honour",
+        "url": "https://www.youtube.com/watch?v=jK6jDCVU0pg",
+        "id": "jK6jDCVU0pg"
+      },
+      {
+        "title": "Cheetah Print (ft. Sexyy Red) - Maid of Honour",
+        "url": "https://www.youtube.com/watch?v=vCRsQ_rHCO0",
+        "id": "vCRsQ_rHCO0"
+      },
+      {
+        "title": "True Bestie (ft. Iconic Savvy) - Maid of Honour",
+        "url": "https://www.youtube.com/watch?v=YMbzl_06Vkg",
+        "id": "YMbzl_06Vkg"
+      },
+      {
+        "title": "New Bestie - Maid of Honour",
+        "url": "https://www.youtube.com/watch?v=AirSu3xhI8U",
+        "id": "AirSu3xhI8U"
+      },
+      {
+        "title": "Princess - Maid of Honour",
+        "url": "https://www.youtube.com/watch?v=xFMdDMELQIY",
+        "id": "xFMdDMELQIY"
+      },
+      {
+        "title": "Slap the City (ft. Qendresa) - Habibti",
+        "url": "https://www.youtube.com/watch?v=sYWD68Tve2M",
+        "id": "sYWD68Tve2M"
+      },
+      {
+        "title": "High Fives - Habibti",
+        "url": "https://www.youtube.com/watch?v=_tlMz8sTFMs",
+        "id": "_tlMz8sTFMs"
+      },
+      {
+        "title": "I'm Spent (ft. Loe Shimmy) - Habibti",
+        "url": "https://www.youtube.com/watch?v=elFnIw3RoaU",
+        "id": "elFnIw3RoaU"
+      },
+      {
+        "title": "Classic - Habibti",
+        "url": "https://www.youtube.com/watch?v=mCNuYHwje2o",
+        "id": "mCNuYHwje2o"
+      },
+      {
+        "title": "Gen 5 - Habibti",
+        "url": "https://www.youtube.com/watch?v=-ThdHWENQGU",
+        "id": "-ThdHWENQGU"
+      },
+      {
+        "title": "White Bone - Habibti",
+        "url": "https://www.youtube.com/watch?v=wVR6BaKRWv0",
+        "id": "wVR6BaKRWv0"
+      },
+      {
+        "title": "Solar Eclipse (ft. Don Toliver) - Habibti (FOMO)",
+        "url": "https://www.youtube.com/watch?v=vBk30V8AukM",
+        "id": "vBk30V8AukM"
+      },
+      {
+        "title": "Quebec - Habibti (FOMO)",
+        "url": "https://www.youtube.com/watch?v=y56D2WIeKxg",
+        "id": "y56D2WIeKxg"
+      }
+    ]
+  },
+  {
+    "artist": "Frank Reyes",
+    "channel": "https://www.youtube.com/@FrankReyes809",
+    "videos": [
+      {
+        "title": "Quien Te Dio El Derecho (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=iZMOccjasnE",
+        "id": "iZMOccjasnE"
+      },
+      {
+        "title": "Decidi (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=Wp9qi3GIsh4",
+        "id": "Wp9qi3GIsh4"
+      },
+      {
+        "title": "Como Hojas al Viento (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=2wHa_op488g",
+        "id": "2wHa_op488g"
+      },
+      {
+        "title": "El Tubi (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=ZB7mMiILVmQ",
+        "id": "ZB7mMiILVmQ"
+      },
+      {
+        "title": "Fecha de Vencimiento (Official Video)",
+        "url": "https://www.youtube.com/watch?v=JXvjvYa2RS0",
+        "id": "JXvjvYa2RS0"
+      },
+      {
+        "title": "Cupido",
+        "url": "https://www.youtube.com/watch?v=V9l1kSnRGZQ",
+        "id": "V9l1kSnRGZQ"
+      },
+      {
+        "title": "Me Dejaste Abandonado (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=M1DJkUNXOPw",
+        "id": "M1DJkUNXOPw"
+      },
+      {
+        "title": "Tu Eres Ajena (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=0mFaIxl1wgQ",
+        "id": "0mFaIxl1wgQ"
+      },
+      {
+        "title": "Que Te Vayas (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=GJCOutOFgKA",
+        "id": "GJCOutOFgKA"
+      },
+      {
+        "title": "Contigo O Sin Ti (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=_LsIjIN7jqY",
+        "id": "_LsIjIN7jqY"
+      },
+      {
+        "title": "Voy A Dejarte De Amar (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=oa-r6ZN8r7U",
+        "id": "oa-r6ZN8r7U"
+      },
+      {
+        "title": "Dejame Entrar En Ti (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=E1VfIlZQ_Zo",
+        "id": "E1VfIlZQ_Zo"
+      },
+      {
+        "title": "Princesa (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=q79vUDskBGQ",
+        "id": "q79vUDskBGQ"
+      },
+      {
+        "title": "Nada De Nada (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=QnGNEn5KYc4",
+        "id": "QnGNEn5KYc4"
+      },
+      {
+        "title": "Quien Eres Tu (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=zF4Bcd6v7aY",
+        "id": "zF4Bcd6v7aY"
+      },
+      {
+        "title": "Romeo Santos, Frank Reyes - Payasos (Official Video)",
+        "url": "https://www.youtube.com/watch?v=CkNSGnekpBA",
+        "id": "CkNSGnekpBA"
+      },
+      {
+        "title": "Amor a Distancia (Video Oficial)",
+        "url": "https://www.youtube.com/embed/tuV_1NKnQxY",
+        "id": "tuV_1NKnQxY"
+      },
+      {
+        "title": "Aventurero (Video Oficial)",
+        "url": "https://www.youtube.com/embed/gSf11ejU0k8",
+        "id": "gSf11ejU0k8"
+      }
+    ]
+  },
+  {
+    "artist": "Yiyo Sarante",
+    "channel": "https://www.youtube.com/@YiyoSarantee",
+    "videos": [
+      {
+        "title": "Manos de Tijera (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=oPhWCAYTCDo",
+        "id": "oPhWCAYTCDo"
+      },
+      {
+        "title": "Me Hubieras Dicho (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=Eh5C2yHs_WU",
+        "id": "Eh5C2yHs_WU"
+      },
+      {
+        "title": "Que Agonia / 2 Veces (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=eHsR140M2no",
+        "id": "eHsR140M2no"
+      },
+      {
+        "title": "Mi Todo (Video Oficial)",
+        "url": "https://www.youtube.com/embed/JXLNr85yoKk",
+        "id": "JXLNr85yoKk"
+      },
+      {
+        "title": "Corazon de Acero (Video Oficial)",
+        "url": "https://www.youtube.com/embed/kw3yr8I0xho",
+        "id": "kw3yr8I0xho"
+      }
+    ]
+  },
+  {
+    "artist": "Raulin Rodriguez",
+    "channel": "https://www.youtube.com/@raulinrodriguez2647",
+    "videos": [
+      {
+        "title": "Me Gustas (Video Oficial)",
+        "url": "https://www.youtube.com/embed/0AMbt4ki-nE",
+        "id": "0AMbt4ki-nE"
+      },
+      {
+        "title": "Y Nos Dieron Las Diez (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=KkU7wjqCJW8",
+        "id": "KkU7wjqCJW8"
+      },
+      {
+        "title": "Noche Pasajera (Video Oficial)",
+        "url": "https://www.youtube.com/embed/6L0uLWmG4Co",
+        "id": "6L0uLWmG4Co"
+      },
+      {
+        "title": "Nadie Es Eterno (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=Ji5OVm8NkGY",
+        "id": "Ji5OVm8NkGY"
+      },
+      {
+        "title": "Esta Noche (Official Video)",
+        "url": "https://www.youtube.com/watch?v=8Ei86cJIWlk",
+        "id": "8Ei86cJIWlk"
+      },
+      {
+        "title": "Como Seras Tu (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=E01fpwK9zZo",
+        "id": "E01fpwK9zZo"
+      },
+      {
+        "title": "Sin Temor (Official Web Clip)",
+        "url": "https://www.youtube.com/watch?v=eSx2ub07X38",
+        "id": "eSx2ub07X38"
+      },
+      {
+        "title": "Medicina de Amor",
+        "url": "https://www.youtube.com/watch?v=W4r8SLWTipw",
+        "id": "W4r8SLWTipw"
+      },
+      {
+        "title": "La Ultima Carta (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=Yh-bFDjp3cQ",
+        "id": "Yh-bFDjp3cQ"
+      },
+      {
+        "title": "Que Vuelva (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=OxqI1J7tWZI",
+        "id": "OxqI1J7tWZI"
+      },
+      {
+        "title": "Guantanamera (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=OfA75LzfK9Y",
+        "id": "OfA75LzfK9Y"
+      },
+      {
+        "title": "Una Tercera Persona (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=XUDt-QSJVEQ",
+        "id": "XUDt-QSJVEQ"
+      },
+      {
+        "title": "Flor Palida (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=m7rS7vV3MkM",
+        "id": "m7rS7vV3MkM"
+      },
+      {
+        "title": "Derroche de Sexo (Official Video)",
+        "url": "https://www.youtube.com/watch?v=Hk57QXZLzzE",
+        "id": "Hk57QXZLzzE"
+      },
+      {
+        "title": "Como Sera Manana (Video Oficial)",
+        "url": "https://www.youtube.com/watch?v=V_N8C3LYk6U",
+        "id": "V_N8C3LYk6U"
+      },
+      {
+        "title": "Romeo Santos, Raulin Rodriguez - La Demanda (Official Video)",
+        "url": "https://www.youtube.com/watch?v=EOxBm6QYx8E",
+        "id": "EOxBm6QYx8E"
+      },
+      {
+        "title": "Elvis Martinez, Raulin Rodriguez - Perdoname Amigo Mio",
+        "url": "https://www.youtube.com/embed/YrsFJgpeJZo",
+        "id": "YrsFJgpeJZo"
+      }
+    ]
+  }
+]
